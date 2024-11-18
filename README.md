@@ -8,7 +8,7 @@ Shortly after earning my degree in Civil Engineering, I discovered a strong inte
 
 ### My Main Technology Stack 🚀  
 - **Backend Development**: NestJS, Express  
-- **Languages**: TypeScript, JavaScript  
+- **Languages**: TypeScript, JavaScript, Python  
 - **Databases**: PostgreSQL, MongoDB
 - **ORMs/ODM**: TypeORM, Mongoose  
 - **Cloud & DevOps**: AWS, Cloudinary, Docker  
