@@ -10,7 +10,7 @@ Shortly after earning my degree in Civil Engineering, I discovered a strong inte
 - **Backend Development**: NestJS, Express  
 - **Languages**: TypeScript, JavaScript, Python  
 - **Databases**: PostgreSQL, MongoDB
-- **ORMs/ODM**: TypeORM, Mongoose  
+- **ORMs/ODM**: TypeORM, Prisma, Mongoose  
 - **Cloud & DevOps**: AWS, Cloudinary, Docker  
 - **Version Control**: Git, GitHub
 
